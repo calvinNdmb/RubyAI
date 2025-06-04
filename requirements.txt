@@ -1,9 +1,2 @@
 numpy
-pygame
-PyOpenGL
-PyOpenGL_accelerate
-ursina
-neat-python
 matplotlib
-pandas
-graphviz
